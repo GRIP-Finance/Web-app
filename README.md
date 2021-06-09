@@ -1,2 +1,3 @@
-# Web-app
-Web app for Grip
+# GRIP FINANCE
+Lending and Borrowing Platform Built on Avalanche
+
