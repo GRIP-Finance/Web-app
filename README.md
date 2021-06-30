@@ -1,3 +1,3 @@
 # GRIP FINANCE
-Lending and Borrowing Platform Built on Avalanche
+Options Platform Built on Avalanche
 
